@@ -26,7 +26,7 @@ This project is a RESTful API for handling blog posts with user authentication a
    cd blog-api
 
 2. .env
-
+   ```sh
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
    PORT=5000
